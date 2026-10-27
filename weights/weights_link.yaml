@@ -1,0 +1,6 @@
+# Weights of testing-phase submission #19263: one zip, unpacked into weights/ (keeps dinov3-vitl16/).
+# Contents: dinov3-vitl16/ (DINOv3 ViT-L/16 LVD-1689M + its LICENSE.md), e23-s64k-all.pt,
+# e19g-ref-b64-s48k-all.pt, generator_affine.csv. 1.352 GB.
+url: REPLACE_WITH_PUBLIC_LINK
+sha256: 95ab06820eb6e67fff218892e36e4b448d4eba4ea98df9764f36f35e4414582a
+filename: deepdrivepl-eurs-t1-weights.zip

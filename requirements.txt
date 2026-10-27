@@ -1,0 +1,10 @@
+# Installed on top of pytorch/pytorch:2.9.1-cuda12.6-cudnn9-runtime by our Dockerfile (torch NOT pinned here).
+# Versions = our leaderboard environment (pdm.lock). transformers loads DINOv3 ViT-L/16 from weights/dinov3-vitl16/.
+numpy==2.4.6  # our env has 2.5.3, which needs Python >= 3.12; the image has 3.11
+pillow==12.3.0
+opencv-python-headless==5.0.0.93
+transformers==5.17.0
+huggingface_hub==1.31.0
+safetensors==0.8.0
+tokenizers==0.23.2
+pyyaml==6.0.3

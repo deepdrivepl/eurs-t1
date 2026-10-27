@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+weights/.downloaded_by_repro_check
+# weights come from the link in weights/weights_link.yaml
+weights/*
+!weights/README.md
+!weights/weights_link.yaml
